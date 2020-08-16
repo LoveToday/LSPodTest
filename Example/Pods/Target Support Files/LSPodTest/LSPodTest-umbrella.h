@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSString+Size.h"
 
 FOUNDATION_EXPORT double LSPodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char LSPodTestVersionString[];

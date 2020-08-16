@@ -1,8 +1,8 @@
 {
   "name": "LSPodTest",
   "version": "0.1.0",
-  "summary": "A short description of LSPodTest.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "测试一下这个LSPodTest.",
+  "description": "写一个更长的描述来测试一下这LSPodTest.",
   "homepage": "https://github.com/LoveToday/LSPodTest",
   "license": {
     "type": "MIT",
